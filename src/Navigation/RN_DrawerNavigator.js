@@ -129,11 +129,9 @@ const DrawerNavConfigs = {
         // },
         style: {//抽屉内容样式
             marginVertical: 20,
-            height: 10,
-            width: 50,
-            backgroundColor: 'green',
-            borderBottomWidth: 2,
-            borderColor: 'yellow'
+            height:40,
+            borderBottomWidth:1,
+            borderBottomColor:'green'
         },
         labelStyle: {//抽屉标签／条目标题样式
             color: 'red',
